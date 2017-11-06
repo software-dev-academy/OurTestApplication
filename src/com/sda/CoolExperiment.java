@@ -5,7 +5,7 @@ package com.sda;
  * It works by magic.
  *
  */
-public class CrazyExperiment {
+public class CoolExperiment {
 
 	void useGPSInCoolWays() {
 		// now it works
