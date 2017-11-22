@@ -2,7 +2,7 @@ package com.sda;
 
 /**
  * This class adds a cool feature.
- * It works by magic.
+ * It works by itself.
  *
  */
 public class CoolExperiment {
