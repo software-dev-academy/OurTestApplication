@@ -9,5 +9,6 @@ public class CoolExperiment {
 
 	void useGPSInCoolWays() {
 		// now it works
+	        // do not delete files :-)
 	}
 }
